@@ -1,8 +1,8 @@
 local admins = {
   {"zxc","Xannyoff","0x960000","0x4B0082","0","false"},
   {"zxc","wwwvwwwwwww","0x960000","0x4B0082","0","false"},
-  {"null","L3D451R7","0x8B0000","0x8B0000","0","false"},
-  {"null","1maksimgeims1","0x8B0000","0x8B0000","0","false"},
+  {" ","L3D451R7","0x8B0000","0x8B0000","0","false"},
+  {" ","1maksimgeims1","0x8B0000","0x8B0000","0","false"},
   {"team","zaz0990","0x32CD32","0x32CD32","0","false"},
   {"null","null","0x32FF00","0x000000","0","false"},
   {"null","null","0x32FF00","0x000000","0","false"},
