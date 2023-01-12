@@ -1,14 +1,14 @@
 local admins = {
   {"zxc","Xannyoff","0x960000","0x4B0082","0","false"},
   {"zxc","wwwvwwwwwww","0x960000","0x4B0082","0","false"},
-  {"Друже","null","0xF8FF00","0x000000","0","false"},
-  {"Тоби пизда","null","0xFF0000","0x000000","0","false"},
-  {"Тут тоже","null","0xFF0000","0x000000","0","false"},
-  {"Kakoytachel","null","0x32FF00","0x000000","0","false"},
-  {"CryBoy","null","0x32FF00","0x000000","0","false"},
-  {"Meowka","null","0x32FF00","0x000000","0","false"},
-  {"Полоскун","null","0x32FF00","0x000000","0","false"},
-  {"Hokage","null","0x32FF00","0x000000","0","false"}
+  {"null","L3D451R7","0xF8FF00","0x8B0000","0","false"},
+  {"null","1maksimgeims1","0xFF0000","0x8B0000","0","false"},
+  {"team","zaz0990","0xFF0000","0x32CD32","0","false"},
+  {"null","null","0x32FF00","0x000000","0","false"},
+  {"null","null","0x32FF00","0x000000","0","false"},
+  {"null","null","0x32FF00","0x000000","0","false"},
+  {"null","null","0x32FF00","0x000000","0","false"},
+  {"null","null","0x32FF00","0x000000","0","false"}
 }
  
 local com = require("component")
