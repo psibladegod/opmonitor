@@ -4,7 +4,7 @@ local admins = {
   {" ","L3D451R7","0x8B0000","0x8B0000","0","false"},
   {" ","1maksimgeims1","0x8B0000","0x8B0000","0","false"},
   {"team","zaz0990","0x32CD32","0x32CD32","0","false"},
-  {"null","null","0x32FF00","0x000000","0","false"},
+  {"Bimzhik","Bomba_17","0x32FF00","0x8B0000","0","false"},
   {"null","null","0x32FF00","0x000000","0","false"},
   {"null","null","0x32FF00","0x000000","0","false"},
   {"null","null","0x32FF00","0x000000","0","false"},
