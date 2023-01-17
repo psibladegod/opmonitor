@@ -1,14 +1,14 @@
 local admins = {
-  {"zxc","Xannyoff","0x960000","0x4B0082","0","false"},
-  {"zxc","wwwvwwwwwww","0x960000","0x4B0082","0","false"},
-  {" ","L3D451R7","0x8B0000","0x8B0000","0","false"},
-  {" ","1maksimgeims1","0x8B0000","0x8B0000","0","false"},
-  {"team","zaz0990","0x32CD32","0x32CD32","0","false"},
-  {"Bimzhik","Bomba_17","0x32FF00","0x8B0000","0","false"},
-  {"null","null","0x32FF00","0x000000","0","false"},
-  {"null","null","0x32FF00","0x000000","0","false"},
-  {"null","null","0x32FF00","0x000000","0","false"},
-  {"null","null","0x32FF00","0x000000","0","false"}
+  {"11-A1","PropsFura","0x960000","0x4B0082","0","false"},
+  {"11-A1","wwwvwwwwwww","0x960000","0x4B0082","0","false"},
+  {"null","null","0x000000","0x000000","0","false"},
+  {"null","null","0x000000","0x000000","0","false"},
+  {"null","null","0x000000","0x000000","0","false"},
+  {"null","null","0x000000","0x000000","0","false"},
+  {"null","null","0x000000","0x000000","0","false"},
+  {"null","null","0x000000","0x000000","0","false"},
+  {"null","null","0x000000","0x000000","0","false"},
+  {"null","null","0x000000","0x000000","0","false"}
 }
  
 local com = require("component")
@@ -91,7 +91,7 @@ for i = 1,h do
 end
 gpu.setForeground(0x66FF00)
 gpu.set(w2 - unicode.len("[ CloseAdmins ]")/2,1," ")
-gpu.set(w2 - unicode.len("Списосок")/2,3,"Списососк")
+gpu.set(w2 - unicode.len("СпайСучка")/2,3,"СпайСучка")
 local line = 10
 for ind = 1,#admins do
   gpu.setForeground(0x2D2D2D)
