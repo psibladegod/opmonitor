@@ -1,6 +1,6 @@
 local admins = {
   {"11-A1","PropsFura","0x960000","0x4B0082","0","false"},
-  {"11-A1","wwwvwwwwwww","0x960000","0x4B0082","0","false"},
+  {"11-A1","nast_a","0x960000","0x4B0082","0","false"},
   {"null","null","0x000000","0x000000","0","false"},
   {"null","null","0x000000","0x000000","0","false"},
   {"null","null","0x000000","0x000000","0","false"},
@@ -91,7 +91,7 @@ for i = 1,h do
 end
 gpu.setForeground(0x66FF00)
 gpu.set(w2 - unicode.len("[ CloseAdmins ]")/2,1," ")
-gpu.set(w2 - unicode.len("СпайСучка")/2,3,"СпайСучка")
+gpu.set(w2 - unicode.len("Спайсучка")/2,3,"Спайсучка")
 local line = 10
 for ind = 1,#admins do
   gpu.setForeground(0x2D2D2D)
