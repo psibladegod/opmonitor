@@ -1,6 +1,6 @@
 local admins = {
-  {"11 A1","PropsFura","0x960000","0x4B0082","0","false"},
-  {"11 A1","nast_a","0x960000","0x4B0082","0","false"},
+  {"zxc","Xannyoff","0x960000","0x4B0082","0","false"},
+  {"zxc","wwwvwwwwwww","0x960000","0x4B0082","0","false"},
   {"null","null","0x000000","0x000000","0","false"},
   {"null","null","0x000000","0x000000","0","false"},
   {"null","null","0x000000","0x000000","0","false"},
